@@ -1,0 +1,29 @@
+{
+ "emotion": {
+  "document": {
+   "emotion": {
+    "anger": 0.555334, 
+    "joy": 0.589083, 
+    "sadness": 0.52866, 
+    "fear": 0.160684, 
+    "disgust": 0.52192
+   }
+  }, 
+  "targets": [
+   {
+    "emotion": {
+     "anger": 0.560711, 
+     "joy": 0.059405, 
+     "sadness": 0.586666, 
+     "fear": 0.081242, 
+     "disgust": 0.501047
+    }, 
+    "text": "trump"
+   }
+  ]
+ }, 
+ "language": "en", 
+ "warnings": [
+  "truncated-oversized-text-content"
+ ]
+}
